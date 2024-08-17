@@ -41,3 +41,50 @@
 - IoT: 스마트 케인, Beacon 기술
 
 이 프로젝트는 폐사의 기술력과 경험을 바탕으로, 문화유산의 접근성을 높이고 모든 이용자에게 평등한 문화 체험 기회를 제공하는 것을 목표로 합니다.
+
+<br/>
+<br/>
+
+# A project to improve the viewing environment for the visually impaired at the four major palaces in Seoul
+
+## Project Overview
+This project aims to create a barrier-free environment for the increase of blind visitors to the four major palaces in Seoul. As part of our cultural heritage digital transformation plan, this project we propose to provide all visitors with equal cultural experience opportunities by utilizing smart technology.
+
+## Key Features
+1. voice guidance service
+2. Cultural Heritage Explanation Service
+3. Operations Management System
+
+## Technology Implementation Plan
+### Building a system
+- Build clean zones to enhance security
+- Secure reliability with network redundancy and dualization
+- Apply DDoS Defense Solutions
+
+### service building
+- Voice-based interface using Giga Genie AI service
+- Introducing Smart Kane
+- Obstacle Detection Sensor
+- Accurate indoor positioning with Beacon module
+
+## an expected effect
+1. Improve viewing experience with smart services
+2. Provides reliable service with enhanced security
+3. Create a non-discriminatory viewing environment to enhance a positive image
+4. Improve the brand value of the archer's business
+
+## Additional suggestions
+1. Resolve language barriers by providing multilingual services
+2. Creating competency tour contents exclusively for the disabled using the KT alpha content business
+3. Establishment of efficient tourism policy and forecasting demand through tourism analysis solution (TrIP)
+4. Reduce operational costs and increase data access with cloud expansion
+5. Reduce licensing costs and ensure program transparency by utilizing public software
+
+## Tech Stack
+- AI Voice Recognition: GiGA Genie
+- Cloud Infrastructure: KT Cloud
+- Security: CC Authentication Security Solution
+- Network: Enterprise dedicated network, up to 10Gbps transfer speed
+- IoT: Smart Kane, Beacon Technology
+
+Based on our technology and experience, this project aims to increase the accessibility of cultural heritage and provide equal cultural experience opportunities for all users.
